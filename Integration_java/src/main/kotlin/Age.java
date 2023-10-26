@@ -1,0 +1,12 @@
+public class Age {
+    public int solution(int age) {
+        int year = 2022;
+        int result = year - age + 1;
+        return result;
+    }
+}
+
+/**
+ * level 0) 나이 출력
+ * https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=java
+ */
